@@ -2,7 +2,7 @@
 
 ## Who am I
 
-I'm a *programmer* that likes rust, that's what you need to know
+I'm a programmer that likes rust, that's what you need to know
 
 ## Joke on the readme cause why not
 
