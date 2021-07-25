@@ -1,8 +1,13 @@
-# Abandon all hope when you enter [here](https://github.com/desnomeado?tab=repositories)
+# Abandon all hope when you enter here
 
 ## Who am I
 
-I'm a programmer that likes rust, that's what you need to know
+I'm a
+
+* programmer
+* that
+* likes
+* rust
 
 ## Joke on the readme cause why not
 
