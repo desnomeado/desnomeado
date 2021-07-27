@@ -1,4 +1,4 @@
-# Abandon all hope when you enter here
+# Abandon hope all ye who enter here
 
 ## Who am I
 
